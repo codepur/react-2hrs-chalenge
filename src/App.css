@@ -1,0 +1,17 @@
+.navbar{
+  background-color: grey;
+  height: 3rem;
+  width: 100%;
+}
+li{
+  list-style: none;
+}
+.box{
+   width: 3rem;
+   height: 3rem;
+}
+.button_none{
+  border: 0px solid transparent;
+  background-color: white;
+  color: black;
+}
